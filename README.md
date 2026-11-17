@@ -10,8 +10,8 @@ Des logiciels simples, sans compte et sans cloud, pour protéger ses documents e
 
 | | |
 |---|---|
-| [![Vidéo A](Filigo/apercus/A.jpg)](Filigo/Filigo_A_LinkedIn_4x5.mp4) | [![Vidéo B](Filigo/apercus/B.jpg)](Filigo/Filigo_B_LinkedIn_4x5.mp4) |
-| **Vidéo A : le compteur**<br>Les chiffres de l'usurpation d'identité (source CNIL), puis la réponse : filigraner chaque copie.<br>35 s, 25 Mo<br>[Voir la vidéo](Filigo/Filigo_A_LinkedIn_4x5.mp4) | **Vidéo B : l'histoire**<br>Le trajet d'une carte d'identité envoyée par mail, de l'agence à l'inconnu, jusqu'à un crédit à ton nom. Voix off, sous-titres et musique.<br>27 s, 20 Mo<br>[Voir la vidéo](Filigo/Filigo_B_LinkedIn_4x5.mp4) |
+| [![Le compteur](Filigo/apercus/Compteur.jpg)](Filigo/Filigo_Compteur_LinkedIn_4x5.mp4) | [![L'histoire](Filigo/apercus/Histoire.jpg)](Filigo/Filigo_Histoire_LinkedIn_4x5.mp4) |
+| **Le compteur**<br>Les chiffres de l'usurpation d'identité (source CNIL), puis la réponse : filigraner chaque copie.<br>35 s, 25 Mo<br>[Voir la vidéo](Filigo/Filigo_Compteur_LinkedIn_4x5.mp4) | **L'histoire d'une carte d'identité**<br>Le trajet d'une carte d'identité envoyée par mail, de l'agence à l'inconnu, jusqu'à un crédit à ton nom. Voix off, sous-titres et musique.<br>27 s, 20 Mo<br>[Voir la vidéo](Filigo/Filigo_Histoire_LinkedIn_4x5.mp4) |
 
 ### Caractéristiques
 
